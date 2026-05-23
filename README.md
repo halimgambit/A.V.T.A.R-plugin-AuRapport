@@ -8,10 +8,10 @@ Commandes :
 
 au rapport 
 
-Multi-room
+# Multi-room
 The AuRapport plugin is fully multi-room.
 
-Multi-language
+# Multi-language
 The AuRapport plugin relies solely on the system's available languages.
 
 
