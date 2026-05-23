@@ -6,7 +6,7 @@ This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.gi
 🎯 Usage
 Commandes :
 
-monte volme, 
+au rapport 
 
 Multi-room
 The AuRapport plugin is fully multi-room.
